@@ -36,7 +36,7 @@ main {
   display: flex;
   flex-direction: column;
   max-width: 400px;
-  max-height: 600px;
+  max-height: 500px;
   gap: 20px;
   padding: 20px;
   align-items: flex-start;
